@@ -18,17 +18,17 @@ This repo captures:
 ```text
 .
 ├── README.md
-├── hindsight_article_titles.md
-├── hindsight_prompt_regression_hooks.md
+├── architecture_diagram.png
+├── flowchart.png
 └── hindsight_caught_prompt_regression_early_article.md
 ```
     
 ### File guide
 
-- **`hindsight_article_titles.md`**
-- 20 concise title options for technical posts about Hindsight and agent reliability.
-- **`hindsight_prompt_regression_hooks.md`**
-- 5 opening hooks centered on prompt regression detection.
+- **`architecture_diagram.png`**
+- Architectural design model, technical story.
+- **`flowchart.png`**
+- Flowchart visual representation with steps involved.
 - **`hindsight_caught_prompt_regression_early_article.md`**
 - Full long-form article draft: architecture framing, core technical story, workflow, and lessons learned.
 
